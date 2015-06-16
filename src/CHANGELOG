@@ -1,5 +1,8 @@
 THIS CHANGELOG IS AN ATTEMPT TO DOCUMENT CHANGES TO THIS PROJECT.
 
+v0.8.0
+ - Forked from https://github.com/savoirfairelinux/patternlab-php-bootstrap-3
+
 PL-v0.7.12
  - FIX: making sure only the hostname shows up for the websocket servers. no ports.
  - THX: thanks to @levito for the pull request
